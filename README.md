@@ -1,7 +1,7 @@
 ### AI_start
 ### 나의 홈페이지 주소 
   * 내홈페이지 : https://dongjun878.github.io/AI_start/
-  *주소 : [link](https://github.com/dongjun878/AI_start)
+  * 주소 : [link](https://github.com/dongjun878/AI_start)
   
 
 ### 시각화 프로젝트
