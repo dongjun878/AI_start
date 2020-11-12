@@ -1,10 +1,10 @@
 # AI_start
-# 나의 홈페이지 주소
-  *주소 :
+# 나의 홈페이지 주소 
+  *주소 : [link](https://github.com/dongjun878/AI_start)
   
 
 # 시각화 프로젝트
-  IRIS 데이터 분석해 보기 
+  IRIS 데이터 분석해 보기 [link](https://github.com/dongjun878/AI_start)
  
 # 캐글 데이터 분석 대회 참여 
 
