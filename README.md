@@ -16,3 +16,8 @@
   * 데이터 탐색
   * 데이터 시각화
   * 데이터 머신러닝(데이터 분석) 간단히 해보기
+
+### 부산시 공공데이터 folium
+  * 데이터 링크 : 부산시 횡단보도 위치정보 [html](https://dongjun878.github.io/AI_start/busan.html)
+  
+  [link 또는 html](내 홈페이지 주소 + 파일명)
